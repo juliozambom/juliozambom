@@ -1,15 +1,13 @@
 ### Hello, my name is Julio 
 
 
-I'm student at a technical school at Brazil. Currently working in my undergraduate final work.
+Software Developer - I'm available to jobs, contact me!
 
 
-### My current knowledge
+### My currently knowledge
 
-📲 Learning React Native
-
-🌎 Learning ReactJS
-
+📲 React Native
+🌎 ReactJS
 🛠️ Javascript/Typescript
 
 <hr/>
