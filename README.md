@@ -1,7 +1,7 @@
 ### Hello, my name is Julio 
 
 
-Software Developer - I'm available to jobs, contact me!
+Full Stack Software Developer - Available for jobs, contact me!
 
 
 ### My currently knowledge
@@ -9,6 +9,7 @@ Software Developer - I'm available to jobs, contact me!
 📲 React Native
 🌎 ReactJS
 🛠️ Javascript/Typescript
+❇️ NodeJS
 
 <hr/>
 
