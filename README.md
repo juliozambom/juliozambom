@@ -6,7 +6,7 @@ Full Stack Software Developer - Available for jobs, contact me!
 
 ### My currently knowledge
 
-📲 React Native
+📲 React Native 
 🌎 ReactJS
 🛠️ Javascript/Typescript
 ❇️ NodeJS
